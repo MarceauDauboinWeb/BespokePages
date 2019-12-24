@@ -115,6 +115,10 @@ Stock Photos and Graphics:
  - Pexels.com (https://www.pexels.com/)
  - Picjumbo.com (https://picjumbo.com/)
  - RawPixels.com (https://www.rawpixel.com/)
+Photo by Suzy Hazelwood from Pexels
+Photo by Zaksheuskaya from Pexels
+Photo by Steve Johnson from Pexels
+Photo by Scott Webb from Pexels
  
 Javascript Files:
 
