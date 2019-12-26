@@ -1615,6 +1615,7 @@ header .header-logo a {
   font-size: 2.4rem;
   line-height: 1.75;
   text-align: center;
+  z-index: 21;
 }
 .home-social-list::before {
   display: block;
@@ -1650,7 +1651,7 @@ header .header-logo a {
   font-size: 2.4rem;
   line-height: 1.75;
   text-align: center;
-  z-index: 100;
+  z-index: 20;
 }
 
 .home-contact-list h4{
